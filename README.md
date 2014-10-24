@@ -4,9 +4,8 @@ Will update soon how use this :)
 A Basic template for xml file to get the required form is below.
 Please do follow the rules/syntax as below to get best results!
 
-'''xml
-<pre>
-<?xml version='1.0' encoding='UTF-8'?>
+'''
+<?xml version="1.0" encoding="UTF-8"?>
 <form>
 		<email><!-- Input Tag Example -->
 			<name>email_address</name>
@@ -63,4 +62,5 @@ Please do follow the rules/syntax as below to get best results!
 			<value>Login</value>
 			<class>btn btn-primary</class>
 		</submit>
-</form></pre>'''
+</form>
+'''
